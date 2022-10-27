@@ -80,7 +80,7 @@ label[for="new-task"] {
 	font-weight: 700;
 }
 
-input[type="text"] {
+input {
   line-height: 18px;
   font-size: 18px;
   margin: 0;
@@ -89,11 +89,11 @@ input[type="text"] {
   border: 1px solid #dDd;
   background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: "Lato", sans-serif;
   color: #888;
 }
 
-input[type="text"]:focus {
+input:focus {
   color: #333;
 }
 
